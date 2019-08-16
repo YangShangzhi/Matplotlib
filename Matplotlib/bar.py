@@ -1,4 +1,4 @@
-import numpy as py
+import numpy as np
 import matplotlib.pyplot as plt
 
 x = [1980,1985,1990,1995]
